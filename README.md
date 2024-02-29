@@ -19,13 +19,13 @@ A machine learning model was trained to predict software developer salaries base
 
 ## Exploratory Data Analysis
 Exploratory data analysis was conducted to gain insights into software developer salaries. Visualizations were created to illustrate average salaries based on country and years of coding experience, helping to understand salary trends in the developer community.
-![Predicting salary]([blob:https://photos.onedrive.com/ae1badf3-0508-46aa-959e-3bf40311e8b2](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/2.png?raw=true))
+![Predicting salary](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/2.png?raw=true)
 
 Exploratory data analysis (EDA) plays a crucial role in understanding the underlying patterns and trends in the data. In this project, an "Explore" page was created to interactively explore software developer salaries based on various factors such as country, education level, and years of professional coding experience.
 
 Insights from the Explore page:
 - **Number of Data from Different Countries:** Visualize the distribution of survey respondents across different countries, providing insights into geographical diversity in the dataset. This visual also plays an important part in salary predictions since its known that in machine learning predictions, the frequency of data points from each country directly influences the accuracy and reliability of salary forecasts. For instance:The United States of America, with 9430 data points, holds significant weight in shaping predictions due to its ample representation.
-- ![Countries data number](blob:https://photos.onedrive.com/5c7351c6-357c-498e-b2c9-8a75be30828d)
+- ![Countries data number](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/2.png?raw=true)
 - **Average Salary Based on Country:** Analyze the average salary of software developers in different countries, identifying regions with higher and lower average compensation rates.
 - ![Country average salary](blob:https://photos.onedrive.com/75a9c125-12f5-45d2-a355-3ac5f0da4f23)
 - **Average Salary Based on Years of Coding Experience:** Explore how years of professional coding experience correlate with salary levels, revealing trends in earnings over the course of a developer's career.
