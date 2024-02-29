@@ -19,13 +19,17 @@ A machine learning model was trained to predict software developer salaries base
 
 ## Exploratory Data Analysis
 Exploratory data analysis was conducted to gain insights into software developer salaries. Visualizations were created to illustrate average salaries based on country and years of coding experience, helping to understand salary trends in the developer community.
+![Predicting salary](https://1drv.ms/i/s!AnkYxbNRjdy1rVVe6kks9jAjmiSm?e=VfHG06)
 
 Exploratory data analysis (EDA) plays a crucial role in understanding the underlying patterns and trends in the data. In this project, an "Explore" page was created to interactively explore software developer salaries based on various factors such as country, education level, and years of professional coding experience.
 
 Insights from the Explore page:
 - **Number of Data from Different Countries:** Visualize the distribution of survey respondents across different countries, providing insights into geographical diversity in the dataset. This visual also plays an important part in salary predictions since its known that in machine learning predictions, the frequency of data points from each country directly influences the accuracy and reliability of salary forecasts. For instance:The United States of America, with 9430 data points, holds significant weight in shaping predictions due to its ample representation.
+- ![Countries data number](https://1drv.ms/i/s!AnkYxbNRjdy1rVeaG0ZieAwN8A2k?e=eXRwD3)
 - **Average Salary Based on Country:** Analyze the average salary of software developers in different countries, identifying regions with higher and lower average compensation rates.
+- ![Country average salary](https://1drv.ms/i/s!AnkYxbNRjdy1rVm8uPXWg5HwuLWj?e=DVv3Pm)
 - **Average Salary Based on Years of Coding Experience:** Explore how years of professional coding experience correlate with salary levels, revealing trends in earnings over the course of a developer's career.
+- ![Experience based salary](https://1drv.ms/i/s!AnkYxbNRjdy1rVsy5qK3nSGVJsM_?e=E8YsrU)
 
 ## Conclusion
 This project demonstrates the potential of machine learning in predicting software developer salaries. By analyzing data from the Stack Overflow Developer Survey 2023, valuable insights into factors influencing salaries were gained, and a predictive model was developed to estimate earnings. This project aims to inspire further exploration into salary trends and contribute to discussions on developer compensation.
