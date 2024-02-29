@@ -27,7 +27,7 @@ Insights from the Explore page:
 - **Number of Data from Different Countries:** Visualize the distribution of survey respondents across different countries, providing insights into geographical diversity in the dataset. This visual also plays an important part in salary predictions since its known that in machine learning predictions, the frequency of data points from each country directly influences the accuracy and reliability of salary forecasts. For instance:The United States of America, with 9430 data points, holds significant weight in shaping predictions due to its ample representation.
   ![Countries data number](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/2.png?raw=true)
 - **Average Salary Based on Country:** Analyze the average salary of software developers in different countries, identifying regions with higher and lower average compensation rates.
-- ![Country average salary](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/3.png?raw=true)
+ ![Country average salary](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/3.png?raw=true)
 - **Average Salary Based on Years of Coding Experience:** Explore how years of professional coding experience correlate with salary levels, revealing trends in earnings over the course of a developer's career.
  ![Experience based salary](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/4.png?raw=true)
 
