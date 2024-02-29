@@ -1,7 +1,6 @@
 # Predicting Software Developer Salaries
 
-![Software Developer](![MixCollage-29-Feb-2024-05-37-AM-4412](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/assets/122779864/c5f566bc-e67e-4604-8861-67a2bb597ba2)
-)
+![Software Developer Survey 2023 Salary Prediction](https://github.com/domywillygithub/DominicMahamba.github.io/blob/main/Salary%20prediction.jpg?raw=true)
 
 ## Overview
 Welcome to the Predicting Software Developer Salaries project! This project aims to predict the salaries of software developers using machine learning techniques. By leveraging data from the Stack Overflow Developer Survey for year 2023, the model is trained to estimate salaries based on factors such as country, education level, and years of professional coding experience. The model is deployed using Streamlit, allowing users to input their information and receive a salary prediction.
