@@ -25,11 +25,11 @@ Exploratory data analysis (EDA) plays a crucial role in understanding the underl
 
 Insights from the Explore page:
 - **Number of Data from Different Countries:** Visualize the distribution of survey respondents across different countries, providing insights into geographical diversity in the dataset. This visual also plays an important part in salary predictions since its known that in machine learning predictions, the frequency of data points from each country directly influences the accuracy and reliability of salary forecasts. For instance:The United States of America, with 9430 data points, holds significant weight in shaping predictions due to its ample representation.
-- ![Countries data number](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/2.png?raw=true)
+  ![Countries data number](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/2.png?raw=true)
 - **Average Salary Based on Country:** Analyze the average salary of software developers in different countries, identifying regions with higher and lower average compensation rates.
 - ![Country average salary](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/3.png?raw=true)
 - **Average Salary Based on Years of Coding Experience:** Explore how years of professional coding experience correlate with salary levels, revealing trends in earnings over the course of a developer's career.
-- ![Experience based salary](blob:https://photos.onedrive.com/d83970a3-8ccf-4511-b5d6-7ea27c23fb5f)
+ ![Experience based salary](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/4.png?raw=true)
 
 ## Conclusion
 This project demonstrates the potential of machine learning in predicting software developer salaries. By analyzing data from the Stack Overflow Developer Survey 2023, valuable insights into factors influencing salaries were gained, and a predictive model was developed to estimate earnings. This project aims to inspire further exploration into salary trends and contribute to discussions on developer compensation.
