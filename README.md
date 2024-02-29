@@ -19,7 +19,7 @@ A machine learning model was trained to predict software developer salaries base
 
 ## Exploratory Data Analysis
 Exploratory data analysis was conducted to gain insights into software developer salaries. Visualizations were created to illustrate average salaries based on country and years of coding experience, helping to understand salary trends in the developer community.
-![Predicting salary](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/2.png?raw=true)
+![Predicting salary](https://github.com/domywillygithub/Revolutionizing-Compensation-Projections/blob/main/1.png?raw=true)
 
 Exploratory data analysis (EDA) plays a crucial role in understanding the underlying patterns and trends in the data. In this project, an "Explore" page was created to interactively explore software developer salaries based on various factors such as country, education level, and years of professional coding experience.
 
